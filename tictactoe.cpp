@@ -2,14 +2,6 @@
 #include <string>
 #include "console.h"
 
-/******************************************************
-TO-DOS:
-- Better of 3/5/10
-- Fast restart/quit after game
-- AI?
-- Online multiplayer?
-*******************************************************/
-
 const std::string title =
 " _____ _        _____            _____          \n"
 "|_   _(_)      |_   _|          |_   _|         \n"
